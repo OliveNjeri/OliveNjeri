@@ -2,9 +2,10 @@
 - 👀 I’m a cyber security researcher and a CTF player for Cyb0ts team.
 - 🌱 I’m currently learning Assembly language for x86 processors so I can get better at Binary Exploitation and Reverse Engineering.
 - 💞️ I’m looking to collaborate on playing CTFs, spreading the word about cyber in(Security), and build a strong and supportive cyber security community that accomodates people at all levels in their security careers.
-- 📫 You can reach me on:
-     Twitter:https://twitter.com/_oliveh_
-     LinkedIn:https://www.linkedin.com/in/olive-njeri/
+- 📫 You can reach me on my social media handles:
+     ->Twitter:https://twitter.com/_oliveh_
+     
+     ->LinkedIn:https://www.linkedin.com/in/olive-njeri/
 - You can read my cyber security blogs at:
      https://olivenjeri.hashnode.dev/
      
