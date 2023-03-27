@@ -9,7 +9,8 @@
 - You can read my cyber security blogs at:
      https://olivenjeri.hashnode.dev/
      
-
+- Here's a link to my Resume:
+     https://black-beach-0b84cf203.1.azurestaticapps.net/
 
 <!---
 OliveNjeri/OliveNjeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
